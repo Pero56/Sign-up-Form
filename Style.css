@@ -1,0 +1,11 @@
+
+.lijevo{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.logo{
+    display: flex;
+    background-color: rgb(73, 67, 71, 0.5);
+}
+
